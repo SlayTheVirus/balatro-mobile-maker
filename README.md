@@ -43,7 +43,7 @@ Please review the **Notes** section before you begin.
  - Developers of [LÖVE](https://love2d.org/)
  - Developers of [7-Zip](https://www.7-zip.org/)
  - Developers of [APKTool](https://apktool.org/)
- - Delevopers of [Balatro](https://www.playbalatro.com/)
+ - Developers of [Balatro](https://www.playbalatro.com/)
 
  ## License
  - [7-Zip](https://github.com/ip7z/7zip/blob/main/DOC/License.txt) is licensed under the GNU LGPL license.
